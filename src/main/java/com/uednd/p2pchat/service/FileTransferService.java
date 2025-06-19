@@ -17,7 +17,7 @@ import com.uednd.p2pchat.util.DirectoryUtils;
 /**
  * 文件传输服务类，负责发送和接收文件
  * 
- * @version 1.0.0
+ * @version 1.0.1
  * @since 2025-06-14
  */
 public class FileTransferService {

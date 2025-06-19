@@ -14,7 +14,7 @@ import com.uednd.p2pchat.model.User;
 /**
  * 数据库管理类，负责处理SQLite数据库操作
  * 
- * @version 1.0.0
+ * @version 1.0.1
  * @since 2025-06-12
  */
 public class ChatRepository {

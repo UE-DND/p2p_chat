@@ -11,7 +11,7 @@ import com.uednd.p2pchat.repository.ChatRepository;
 /**
  * 消息服务类，负责发送和接收文本消息
  * 
- * @version 1.0.0
+ * @version 1.0.1
  * @since 2025-06-14
  */
 public class MessageService extends BackgroundService {

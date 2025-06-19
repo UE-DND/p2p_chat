@@ -17,7 +17,7 @@ import java.net.Socket;
 /**
  * 网络管理类，负责处理 Socket连接
  * 
- * @version 1.0.0
+ * @version 1.0.1
  * @since 2025-06-09
  */
 public class NetworkManager {

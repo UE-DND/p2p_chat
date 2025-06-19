@@ -7,7 +7,7 @@ import com.uednd.p2pchat.util.ANSIcolor;
  * <p>
  * 用于显示菜单和分隔线
  * 
- * @version 1.0.0
+ * @version 1.0.1
  * @since 2025-06-17
  */
 public class MenuDisplay {

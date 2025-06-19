@@ -79,7 +79,7 @@ P2P 聊天系统是一个基于命令行的点对点即时通讯工具，它允�
 
 系统采用经典的分层架构，将职责清晰地分离到不同的包中，以提高代码的可维护性和可扩展性。
 
-![系统架构图](diagrams/out/system_architecture.png)
+![系统架构图](diagrams/out/png/system_architecture.png)
 
 ### 3.2 各层详细说明
 
@@ -196,7 +196,7 @@ P2P_Chat/
 
 详细的类结构和它们之间的关系在以下类图中展示：
 
-![类图](diagrams/out/class_diagram.png)  
+![类图](diagrams/out/svg/class_diagram.svg)  
 
 ### 4.3 系统交互流程
 
@@ -215,15 +215,15 @@ P2P_Chat/
 
 下图展示了系统的状态转换流程：
 
-![状态图](diagrams/out/state_diagram.png)
+![状态图](diagrams/out/svg/state_diagram.svg)
 
 下图展示了系统中对象之间的协作关系：
 
-![协作图](diagrams/out/collaboration_diagram.png)
+![协作图](diagrams/out/svg/collaboration_diagram.svg)
 
 下图展示了消息处理的时序关系：
 
-![时序图](diagrams/out/sequence_diagram.png)
+![时序图](diagrams/out/svg/sequence_diagram.svg)
 
 ## 5. 运行与部署说明
 
